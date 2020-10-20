@@ -1,3 +1,10 @@
+#### Name: Ayush Gupta
+ - Place: Lucknow,India
+ - Bio: Student.
+ - GitHub: [ayushgupta6598](https://github.com/ayushgupta6598)
+
+
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
